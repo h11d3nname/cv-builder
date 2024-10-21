@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This project was taken from some React YouTube tutorial back in 2021 or 2022 idk. I wanna update it some day, but got no spare time, got no desire to hide it neither...so yeah...
 
 ## Available Scripts
 
